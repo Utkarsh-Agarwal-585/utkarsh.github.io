@@ -1,0 +1,22 @@
+// Import all tech stack icons
+import google_ads from './google_ads.svg'
+export const nodejs = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg';
+export const python = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg';
+export const typescript = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg';
+export const javascript = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg';
+export const aws = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg';
+export const mongodb = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg';
+export const mysql = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg';
+export const postgresql = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg';
+export const redis = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg';
+export const graphql = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg';
+export const express = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg';
+export const fastapi = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg';
+export const nextjs = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg';
+export const rabbitmq = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg';
+export const docker = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg';
+export const elasticsearch = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg';
+export const git = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg';
+export const linux = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg';
+export const react = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg';
+export const google_Ads = google_ads;
