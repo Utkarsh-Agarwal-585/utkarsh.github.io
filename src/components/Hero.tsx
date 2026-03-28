@@ -12,14 +12,13 @@ export default function Hero() {
       }}>
         <p className="text-gray-400 uppercase tracking-wider">BASED IN INDIA</p>
         <h1 className="text-5xl md:text-6xl font-bold text-white">
-          Software Engineer
+          Senior Software Engineer
           <br />
-          <span className="text-blue-500">Specializing In Full Stack</span>
-          <br />
-          Applications
+          <span className="text-blue-500">AI Systems & Scalable Architecture</span>
         </h1>
         <p className="text-gray-300 text-xl">
-          Hi, I'm Utkarsh, I create solutions across all layers of software engineering.
+          Hi, I'm Utkarsh, I build AI-powered applications using LLMs and design
+          scalable backend systems, microservices, and real-time architectures.
         </p>
         <div className="flex gap-4 justify-center">
           <a href="#work" className="bg-white text-black px-6 py-3 rounded-full font-medium hover:bg-gray-100 transition-colors">

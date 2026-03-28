@@ -1,7 +1,11 @@
 // Import all tech stack icons
 import google_ads from './google_ads.svg'
 export const nodejs = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg';
+export const nestjs = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg';
 export const python = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg';
+export const java = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg';
+export const springboot = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg';
+export const kafka = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg';
 export const typescript = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg';
 export const javascript = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg';
 export const aws = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg';
@@ -19,4 +23,14 @@ export const elasticsearch = 'https://cdn.jsdelivr.net/gh/devicons/devicon@lates
 export const git = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg';
 export const linux = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg';
 export const react = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg';
+export const kubernetes = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg';
+export const bitbucket = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg';
+export const Grafana = 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg';
+export const openai = 'https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg';
+export const claude = 'https://cdn.simpleicons.org/claude';
+export const n8n = 'https://cdn.simpleicons.org/n8n';
+export const cursor = 'https://cdn.simpleicons.org/cursor';
+export const kiro = 'https://kiro.dev/icon.svg';
+export const mcp = 'https://api.iconify.design/simple-icons/modelcontextprotocol.svg?color=%23000000';
+export const aiGeneric = 'https://cdn.simpleicons.org/robotframework';
 export const google_Ads = google_ads;

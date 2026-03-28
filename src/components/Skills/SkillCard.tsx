@@ -30,11 +30,12 @@ export default function SkillCard({ category, skills, index }: SkillCardProps) {
             viewport={{ once: true }}
             className="flex flex-col items-center gap-2 group"
           >
-            <div className="p-3 bg-blue-500/10 rounded-lg transition-all duration-300 group-hover:bg-blue-500/20">
+            <div className="p-3 rounded-lg bg-white/10 border border-white/10 transition-all duration-300 group-hover:bg-white/20">
               <img 
                 src={skill.icon} 
                 alt={skill.name} 
-                className="w-8 h-8 transition-transform duration-300 group-hover:scale-110" 
+                className="w-8 h-8 transition-transform duration-300 group-hover:scale-110"
+                style={{ filter: 'drop-shadow(0 0 8px rgba(255,255,255,0.18))' }}
               />
             </div>
             <span className="text-gray-400 text-sm group-hover:text-blue-400 transition-colors duration-300">
